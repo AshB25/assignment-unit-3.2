@@ -65,7 +65,9 @@ while (i <= n){
 }
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
 console.log('count backwards from 10 to 5');
+n = 5
+i = 10
 while (i >= n){
-  console.log([10, 9, 8, 7, 6, 5]);
+  console.log('ten-five', i);
   i--;
   }
